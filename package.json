@@ -1,0 +1,13 @@
+{
+  "name": "samuraibs-tests",
+  "version": "1.0.0",
+  "description": "Teste End2End Samuraibs",
+  "main": "index.js",
+  "author": "Rene Acacio Pedroso",
+  "license": "MIT",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "cypress": "^9.7.0",
+    "pg": "^8.8.0"
+  }
+}
